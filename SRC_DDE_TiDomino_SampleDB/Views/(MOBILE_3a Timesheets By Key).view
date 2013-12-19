@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.0'
+ replicaid='42257C46002F2D5E'>
+<noteinfo noteid='116' unid='F98D7B399FE7F99C42257C46002F2D60' sequence='6'>
+<created><datetime>20131219T103518,08+02</datetime></created>
+<modified><datetime>20131219T141456,38+02</datetime></modified>
+<revised><datetime>20131219T141456,37+02</datetime></revised>
+<lastaccessed><datetime>20131219T141456,38+02</datetime></lastaccessed>
+<addedtofile><datetime>20131219T103518,10+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=John Jardin/O=Ukuvuma</name></updatedby>
+<wassignedby><name>CN=John Jardin/O=Ukuvuma</name></wassignedby>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+aAACABgAAgAkMAEACQBNb2JpbGVLZXkAAwAFAB4AGQADAAIABAAJACQwRGF0ZSRDb25mbGljdAAE
+AAQAAAAeAAUABABGb3JtAQAJAFRpbWVzaGVldAAKAgMABwAOAAgACUwxUzJTM1M=
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+GgACAABECGYHAAACAIBmAAIABAAkMERhdGU=
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQACAAIACgAAAFZDAwACAAMAGgAAABgABQEKCQABAAAAAAAAAAICAAAAVkMBAAQABAAAAAAAeAAG
+AAAJAAAAAAAAAAAAAgIAAAAkMEtleRoAAgAYAAIAJDABAAkATW9iaWxlS2V5AAMARGF0ZURhdGUm
+AAEAAAABAQAJAQAACgEBDgoAAAEArSsBAAEAAQAAAAAAAAAAAFdDAQEACQAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAP//AAAAAAAAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAD/
+/wAAAAAAAAAAAAAAAAAAQgAQAAAAAQD///8ABQD///8AAQAAAAAAAAAAAAAAAAABAP///wABAP//
+/wAAAAEAAAAAAAEAAAAAAAEAAAAAAAAACAAAAAAAAQA=
+</rawitemdata></item>
+<item name='$Fonts'><textlist><text>5</text><text>38</text><text>Arial</text><text
+>6</text><text>38</text><text>Arial</text></textlist></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>Y</text></item>
+<item name='$V5ACTIONS' sign='true'>
+<rawitemdata type='1'>
+vRw/AAAAAQABAAAAAQAAAAAAAAAAAAAACAACAHn/bAABAPDw8AABAAAAAAAJAAAAAAABAPDw8AAA
+AB8AAAAAAAAAAAADAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAPz/OgAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=
+</rawitemdata></item>
+<item name='$TITLE' sign='true'><text>(MOBILE: Timesheets By Key)|Mobile_TimesheetsByKey</text></item>
+<item name='$DesignerVersion' sign='true'><text>8.5.3</text></item></note>
+

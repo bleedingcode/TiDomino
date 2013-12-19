@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note class='view' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.0'
+ replicaid='42257C46002F2D5E'>
+<noteinfo noteid='1a6' unid='D45CF0F05CFC543B42257C460043DF33' sequence='4'>
+<created><datetime>20131219T142120,51+02</datetime></created>
+<modified><datetime>20131219T142216,74+02</datetime></modified>
+<revised><datetime>20131219T142216,73+02</datetime></revised>
+<lastaccessed><datetime>20131219T142316,76+02</datetime></lastaccessed>
+<addedtofile><datetime>20131219T142120,54+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=John Jardin/O=Ukuvuma</name></updatedby>
+<wassignedby><name>CN=John Jardin/O=Ukuvuma</name></wassignedby>
+<item name='$FormulaClass' sign='true'><text>1</text></item>
+<item name='$TITLE' sign='true'><text>Reports\Titanium Docs</text></item>
+<item name='$Index' sign='true'><text/></item>
+<item name='$Formula' summary='true' sign='true'><formula compiled='true'>
+VgAFACIAHgADAAUABgAJAFRpdGxlU3RhdHVzJENvbmZsaWN0BAAEAAAAIAAFAAQARm9ybQEACwBU
+aXRhbml1bURvYwAKAgMABwAOAAgACUwxUzJTM1M=
+</formula></item>
+<item name='$Collation' summary='true'>
+<rawitemdata type='2'>
+EgABAABEAGYAAAAFAFRpdGxl
+</rawitemdata></item>
+<item name='$ViewFormat' summary='true' sign='true'>
+<rawitemdata type='5'>
+AQACAAMACgAAAFZDAQAFAAUAAAAAAKAAAQAACgAAAAAAAAAAAAICAAAAVkMAAAYABgAAAAAAoAAB
+AAAKAAAAAAAAAAAAAgIAAABUaXRsZVRpdGxlU3RhdHVzU3RhdHVzJgABAAAAAQEACQEAAAoBAQ4K
+AAABAK0rAQABAAEAAAAAAAAAAABXQwEBAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//wAAAAAA
+AAAAAAAAAAAAV0MBAQAJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAAAAAAAAAAAAAEIA
+EAAAAAEA////AAUA////AAEAAAAAAAAAAAAAAAAAAQD///8AAQD///8AAAABAAAAAAABAAAAAAAB
+AAAAAAAAAAgAAAAAAAEA
+</rawitemdata></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$Flags'><text>PY</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.0" replicaid="42257BBF00150750" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="18e" sequence="59" unid="5B6A837A1916EA9942257BCC0025963C">
+<created><datetime>20130819T085032,92+02</datetime></created>
+<modified><datetime>20131219T084117,75+02</datetime></modified>
+<revised><datetime>20131219T084117,74+02</datetime></revised>
+<lastaccessed><datetime>20131219T084117,75+02</datetime></lastaccessed>
+<addedtofile><datetime>20130830T123416,06+02</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=John Jardin/O=Ukuvuma</name></updatedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>com/ukuvma/tidomino/MainController.java</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>com/ukuvma/tidomino/MainController.java</text></item>
+</note>
