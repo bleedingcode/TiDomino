@@ -1,0 +1,8 @@
+"#tab1": {
+	icon: 'KS_nav_ui.png',
+	title:'Setup'
+},
+"#tab2": {
+	icon: 'KS_nav_views.png',
+	title:'API Examples'
+}

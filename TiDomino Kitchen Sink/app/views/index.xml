@@ -1,0 +1,10 @@
+<Alloy>
+	<TabGroup id="tabGroup">
+		<Tab id="tab1">
+			<Require src="setup" />
+		</Tab>
+		<Tab id="tab2">
+			<Require src="examples" />
+		</Tab>		
+	</TabGroup>
+</Alloy>

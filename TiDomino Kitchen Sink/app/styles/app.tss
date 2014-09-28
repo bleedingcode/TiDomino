@@ -1,0 +1,19 @@
+/*
+ * '#FFFFFF' = White
+ * '#000000' = Black
+ * '#CC6600' = Orange
+ * '#DA251C' = Red
+ * '#008000' = Green
+ * '#B3B3B3' = Medium Grey
+ * '#F2F2F2' = Light Grey
+ * '#999'    = Grey
+ */
+
+".windowDefault": {
+	backgroundColor:'#FFFFFF',
+	barColor:'#F2F2F2'
+},
+"TabGroup": {
+	activeTabIconTint:'#CC6600',
+	backgroundColor:'#B3B3B3'
+}

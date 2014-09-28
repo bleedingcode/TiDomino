@@ -1,0 +1,40 @@
+".windowCustom": {
+	title:"API Examples"
+},
+"#viewMain": {
+    top:0,
+    left:0,
+    right:0,
+    layout:'vertical'
+},
+"#viewHeader": {
+    top:0,
+    left:0,
+    right:0,
+    height:100
+},
+"#label1": {
+    left:5,
+    right:5,
+    textAlign:Titanium.UI.TEXT_ALIGNMENT_CENTER,
+    text:"To use the examples below, make sure you're logged in. Do this by initiating Step 1 first"
+},
+".row": {
+	className:"rowDefault",
+	hasChild:true
+},
+"#row1": {
+    title:"Step 1: Login"
+},
+"#row2": {
+    title:"Step 2: Get All Docs By Key"
+},
+"#row3": {
+    title:"Step 3: Run XAgent"
+},
+"#row4": {
+    title:"Step 4: Create NotesDocument"
+},
+"#row5": {
+    title:"More coming soon..."
+},

@@ -1,0 +1,19 @@
+<Alloy>
+    <Window id="win1" class="windowDefault windowCustom">
+        <ScrollView id="scrollView1">
+            <View id="viewCustom">
+                <Label id="label1"></Label>
+                <TextField id="field1" onReturn="Field1Return"></TextField>
+                <Label id="label2"></Label>
+                <TextField id="field2"></TextField>
+                <Button id="button1" onClick="SignIn"></Button>
+            </View>
+            <View id="viewGuest">
+                <Label id="label3"></Label>
+                <Button id="button2" onClick="SignIn"></Button>
+            </View>
+
+            <View id="viewFooter"></View>
+        </ScrollView>
+    </Window>
+</Alloy>

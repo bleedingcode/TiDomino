@@ -1,0 +1,23 @@
+<Alloy>
+    <Window class="windowDefault windowCustom" id="window">
+    	<ScrollView id="scrollView1">
+	    	<Label id="label1"></Label>
+	    	<TextField id="field1" onReturn="Field1Return"></TextField>
+	    	<Label id="label2"></Label>
+	    	<TextField id="field2" onReturn="Field2Return"></TextField>
+	    	<Label id="label3"></Label>
+	    	<TextField id="field3"></TextField>
+            <View id="view1">
+                <Label id="label6"></Label>
+                <Switch id="switch1" value="false" />
+            </View>
+            <View id="view2">
+                <Label id="label7"></Label>
+                <Switch id="switch2" value="true" />
+            </View>
+	    	<Button id="button1" onClick="SaveCustomValues"></Button>
+	    	<Button id="button2" onClick="ResetCustomValues"></Button>
+            <View id="viewFooter"></View>
+    	</ScrollView>
+    </Window>
+</Alloy>

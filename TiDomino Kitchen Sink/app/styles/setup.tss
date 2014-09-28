@@ -1,0 +1,100 @@
+".windowCustom": {
+	title:"Setup"
+},
+"#scrollView1": {
+    layout:"vertical",
+    left:10
+},
+"#label1": {
+	top:5,
+	left:0,
+	color:'#999',
+	text:"Server Unique Key",
+},
+"#field1": {
+	top:5,
+    left:0,
+	width:"90%",
+	height:40,
+	hintText:"Any key - e.g. acme",
+	autocorrect:false,
+    keyboardType:Titanium.UI.KEYBOARD_DEFAULT,  
+    returnKeyType:Titanium.UI.RETURNKEY_NEXT,
+    borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"#label2": {
+	top:10,
+	left:0,
+	color:"#999",
+	text:"Domino Server"
+},
+"#field2": {
+	top:5,
+	left:0,
+	width:"90%",
+	height:40,
+	hintText:"Server1/ACME",
+    autocorrect:false,
+    keyboardType:Titanium.UI.KEYBOARD_DEFAULT,  
+    returnKeyType:Titanium.UI.RETURNKEY_NEXT,
+    borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"#label3": {
+	top:10,
+	left:0,
+	color:'#999',
+	text:'Server Hostname'
+},
+"#field3": {
+	top:5,
+	left:0,
+	width:"90%",
+	height:40,
+	hintText:"acme.com",
+	autocorrect:false,
+    keyboardType:Titanium.UI.KEYBOARD_DEFAULT,
+    returnKeyType:Titanium.UI.RETURNKEY_NEXT,
+    borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"#view1": {
+	top:10,
+	left:0,
+	height:40
+},
+"#label6": {
+	left:0,
+	color:"#999",
+	text:"Requires HTTPS?"
+},
+"#switch1": {
+	right:30
+},
+"#view2": {
+	top:10,
+	left:0,
+	height:40
+},
+"#label7": {
+	left:0,
+	color:"#999",
+	text:"Requires Internet?"
+},
+"#switch2": {
+	right:30
+},
+"#button1": {
+	top:15,
+	height:35,
+	title:"Save Custom Values"
+},
+"#button2": {
+	top:15,
+	height:35,
+	title:"Reset Custom Values",
+	color:"#DA251C"
+},
+"#viewFooter": {
+	top:10,
+	left:0,
+	height:40
+}

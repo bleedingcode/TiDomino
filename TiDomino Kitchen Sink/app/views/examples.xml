@@ -1,0 +1,16 @@
+<Alloy>
+	<Window id="winExamples" class="windowDefault windowCustom">
+        <View id="viewMain">
+            <View id="viewHeader">
+                <Label id="label1" />
+            </View>
+            <TableView id="tableView1" onClick="InitRowClick">
+                <TableViewRow id="row1" class="row"></TableViewRow>
+                <TableViewRow id="row2" class="row"></TableViewRow>
+                <TableViewRow id="row3" class="row"></TableViewRow>
+                <TableViewRow id="row4" class="row"></TableViewRow>
+                <TableViewRow id="row5" class="row"></TableViewRow>
+            </TableView>
+        </View>
+	</Window>
+</Alloy>

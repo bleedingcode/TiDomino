@@ -1,0 +1,70 @@
+".windowCustom": {
+	title:"Step 1"
+},
+"#viewCustom": {
+    layout:"vertical",
+    top:0,
+    left:10,
+    right:10
+},
+"#viewGuest": {
+    layout:"vertical",
+    top:0,
+    left:10,
+    right:10
+},
+"#label1": {
+	top:5,
+	left:0,
+	color:'#999',
+	text:"Username",
+},
+"#field1": {
+	top:5,
+    left:0,
+	width:"90%",
+	height:40,
+	autocorrect:false,
+    keyboardType:Titanium.UI.KEYBOARD_DEFAULT,
+    returnKeyType:Titanium.UI.RETURNKEY_NEXT,
+    borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"#label2": {
+	top:5,
+	left:0,
+	color:'#999',
+	text:"Password",
+},
+"#field2": {
+	top:5,
+    left:0,
+	width:"90%",
+	height:40,
+	passwordMask:true,
+    keyboardType:Titanium.UI.KEYBOARD_DEFAULT,
+    returnKeyType:Titanium.UI.RETURNKEY_DEFAULT,
+    borderStyle:Titanium.UI.INPUT_BORDERSTYLE_ROUNDED
+},
+"#label3": {
+	top:5,
+	left:0,
+	right:0,
+	color:'#999',
+	textAlign:Titanium.UI.TEXT_ALIGNMENT_CENTER,
+	text:"You do not have custom configurations in the Setup tab. You will be signing in as Guest"
+},
+"#button1": {
+	top:15,
+	height:35,
+	title:"Sign In"
+},
+"#button2": {
+	top:15,
+	height:35,
+	title:"Sign In as Guest"
+},
+"#viewFooter": {
+	top:10,
+	left:0,
+	height:40
+}
